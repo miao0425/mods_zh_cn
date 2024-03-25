@@ -1,0 +1,20 @@
+{
+	"#extendedcrafting": "合成拓展Extended Crafting - https://www.mcmod.cn/class/1602.html",
+	"block.extendedcrafting.enhanced_redstone_ingot_block": "增强红石块",
+	"block.extendedcrafting.flux_star_block": "通量之星块",
+	"block.extendedcrafting.auto_ender_crafter": "自动末影工作台",
+	"block.extendedcrafting.flux_alternator": "通量发电机",
+	"block.extendedcrafting.flux_crafter": "通量工作台",
+	"block.extendedcrafting.auto_flux_crafter": "自动通量工作台",
+	"item.extendedcrafting.enhanced_redstone_ingot": "增强红石锭",
+	"item.extendedcrafting.enhanced_redstone_nugget": "增强红石粒",
+	"item.extendedcrafting.enhanced_redstone_catalyst": "增强红石合成催化剂",
+	"item.extendedcrafting.enhanced_redstone_component": "增强红石组件",
+	"item.extendedcrafting.flux_star": "通量之星",
+	"container.extendedcrafting.flux_alternator": "通量发电机",
+	"container.extendedcrafting.flux_crafter": "通量工作台",
+	"tooltip.extendedcrafting.selected": "已选择",
+	"tooltip.extendedcrafting.seconds": "%s 秒",
+	"tooltip.extendedcrafting.per_alternator": "%s 每台发电机",
+	"jei.category.extendedcrafting.flux_crafting": "通量工作台"
+}

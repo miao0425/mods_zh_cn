@@ -1,0 +1,81 @@
+{
+	"#experienceobelisk": "Cognition (formerly Experience Obelisk) - https://www.mcmod.cn/class/9990.html",
+	"item.experienceobelisk.attunement_staff": "共鸣法杖",
+	"item.experienceobelisk.cognitium_bucket": "经验桶",
+	"item.experienceobelisk.cognitive_alloy": "认知锭",
+	"item.experienceobelisk.cognitive_amalgam": "认知碎片",
+	"item.experienceobelisk.cognitive_crystal": "认知水晶",
+	"item.experienceobelisk.cognitive_flux": "认知粉",
+	"item.experienceobelisk.cognitive_sword": "认知剑",
+	"item.experienceobelisk.cognitive_axe": "认知斧",
+	"item.experienceobelisk.cognitive_pickaxe": "认知镐",
+	"item.experienceobelisk.cognitive_shovel": "认知锹",
+	"item.experienceobelisk.cognitive_hoe": "认知锄",
+	"item.experienceobelisk.astute_assembly": "认知核心",
+	"item.experienceobelisk.enlightened_amulet": "启迪护符",
+
+	"block.experienceobelisk.experience_obelisk": "经验方尖碑",
+	"block.experienceobelisk.experience_fountain": "经验喷泉",
+	"block.experienceobelisk.precision_dispeller": "精密砂轮",
+	"block.experienceobelisk.cognitive_alloy_block": "认知锭块",
+	"block.experienceobelisk.cognitive_crystal_block": "认知水晶块",
+	"block.experienceobelisk.cognitium": "经验",
+
+	"fluid.experienceobelisk.cognitium": "经验",
+	"fluid_type.experienceobelisk.cognitium": "经验",
+
+	"itemGroup.experienceobelisk": "Cognition",
+
+	"title.experienceobelisk.experience_obelisk": "经验方尖碑",
+	"title.experienceobelisk.experience_obelisk.store": "储存",
+	"title.experienceobelisk.experience_obelisk.retrieve": "取出",
+	"title.experienceobelisk.experience_obelisk.settings": "设置",
+	"title.experienceobelisk.experience_obelisk.radius": "半径",
+	"title.experienceobelisk.experience_obelisk.redstone": "红石",
+	"title.experienceobelisk.precision_dispeller": "精密砂轮",
+	"title.experienceobelisk.precision_dispeller.inventory": "物品栏",
+
+	"tooltip.experienceobelisk.experience_obelisk.add1": "储存 §a1§f XP 级经验",
+	"tooltip.experienceobelisk.experience_obelisk.add10": "储存 §a10§f 级经验",
+	"tooltip.experienceobelisk.experience_obelisk.addAll": "储存 §a所有§f 级经验",
+	"tooltip.experienceobelisk.experience_obelisk.drain1": "取出 §c1§f XP 级经验",
+	"tooltip.experienceobelisk.experience_obelisk.drain10": "取出 §c10§f 级经验",
+	"tooltip.experienceobelisk.experience_obelisk.drainAll": "取出 §c所有§f 级经验",
+	"tooltip.experienceobelisk.experience_obelisk.radius": "§6R重置§f 为默认半径",
+	"tooltip.experienceobelisk.experience_obelisk.settings": "设置...",
+	"tooltip.experienceobelisk.experience_obelisk.back": "Back...",
+	"tooltip.experienceobelisk.experience_obelisk.item_fluid_amount": "§7流体数量:§r %s",
+	"tooltip.experienceobelisk.experience_obelisk.item_levels": "%s §7等级§r",
+
+	"tooltip.experienceobelisk.enlightened_amulet.active": "§7Currently §aactive",
+	"tooltip.experienceobelisk.enlightened_amulet.inactive": "§7Currently §cinactive",
+
+	"tooltip.experienceobelisk.precision_dispeller.curse": "§7Costs §c1395 §7XP / §c30 §7base levels",
+	"tooltip.experienceobelisk.precision_dispeller.enchantment": "§7Gives %s §7XP / %s §7base levels",
+	"tooltip.experienceobelisk.precision_dispeller.insufficient_xp": "§6经验不足!",
+
+	"button.experienceobelisk.experience_obelisk.settings": "§l▶§r",
+	"button.experienceobelisk.experience_obelisk.back": "§l◀§r",
+	"button.experienceobelisk.experience_obelisk.ignored": "§c忽略§r",
+	"button.experienceobelisk.experience_obelisk.enabled": "§a启用§r",
+
+	"message.experienceobelisk.binding_wand.bind_obelisk": "§a[✔]§r 方尖碑位置已保存",
+	"message.experienceobelisk.binding_wand.unbind_obelisk": "§a[✔]§r 方尖碑位置被清除",
+	"message.experienceobelisk.binding_wand.bind_target": "§a[✔]§r 目标绑定在 %s",
+	"message.experienceobelisk.binding_wand.unbind_target": "§a[✔]§r 目标未绑定",
+	"message.experienceobelisk.binding_wand.obelisk_too_far": "§c[✖]§r 方尖碑距离过远",
+	"message.experienceobelisk.binding_wand.obelisk_doesnt_exist": "§c[✖]§f 位于 %s 的方尖碑已不存在",
+	"message.experienceobelisk.binding_wand.reveal_bound_pos": "§b[ⓘ]§r 此方块与 %s 处的方尖碑绑定",
+	"message.experienceobelisk.binding_wand.not_yet_bound": "§b[ⓘ]§r 该方块尚未绑定",
+
+	"message.experienceobelisk.experience_fountain.slow": "经验喷泉设置为: §c慢§r",
+	"message.experienceobelisk.experience_fountain.moderate": "经验喷泉设置为: §e中§r",
+	"message.experienceobelisk.experience_fountain.fast": "经验喷泉设置为: §a快§r",
+	"message.experienceobelisk.experience_fountain.hyper": "经验喷泉设置为: §b极快§r",
+
+	"sounds.experienceobelisk.enlightened_amulet_activate": "护符激活",
+	"sounds.experienceobelisk.enlightened_amulet_deactivate": "护符停用",
+
+	"enchantment.experienceobelisk.athena_blessing": "雅典娜祝福",
+	"enchantment.experienceobelisk.athena_blessing.desc": "工具损坏后会分解成经验"
+}

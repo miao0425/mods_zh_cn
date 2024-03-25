@@ -1,0 +1,22 @@
+{
+	"#sophisticatedbackpacks": "精妙背包 - Sophisticated Backpacks https://www.mcmod.cn/class/3739.html",
+	"item.sophisticatedbackpacks.anvil_upgrade": "铁砧升级",
+	"item.sophisticatedbackpacks.anvil_upgrade.tooltip": "升级标签页中的铁砧",
+	"item.sophisticatedbackpacks.chipped.botanist_workbench_upgrade": "植物学家工作台升级",
+	"item.sophisticatedbackpacks.chipped.botanist_workbench_upgrade.tooltip": "升级标签页中的植物学家工作台",
+	"item.sophisticatedbackpacks.chipped.glassblower_workbench_upgrade": "玻璃匠工作台升级",
+	"item.sophisticatedbackpacks.chipped.glassblower_workbench_upgrade.tooltip": "升级标签页中的玻璃匠工作台",
+	"item.sophisticatedbackpacks.chipped.carpenter_workbench_upgrade": "木匠工作台升级",
+	"item.sophisticatedbackpacks.chipped.carpenter_workbench_upgrade.tooltip": "升级标签页中的木匠工作台",
+	"item.sophisticatedbackpacks.chipped.mason_workbench_upgrade": "石匠工作台升级",
+	"item.sophisticatedbackpacks.chipped.mason_workbench_upgrade.tooltip": "升级标签页中的石匠工作台",
+	"item.sophisticatedbackpacks.chipped.shepherd_workbench_upgrade": "牧羊人工作台升级",
+	"item.sophisticatedbackpacks.chipped.shepherd_workbench_upgrade.tooltip": "升级标签页中的羊人工作台",
+	"item.sophisticatedbackpacks.chipped.philosopher_workbench_upgrade": "学者工作台升级",
+	"item.sophisticatedbackpacks.chipped.philosopher_workbench_upgrade.tooltip": "升级标签页中的学者工作台",
+	"item.sophisticatedbackpacks.chipped.tinkerer_workbench_upgrade": "工匠工作台升级",
+	"item.sophisticatedbackpacks.chipped.tinkerer_workbench_upgrade.tooltip": "升级标签页中的工匠工作台",
+	"gui.sophisticatedbackpacks.status.no_space_for_mainhand_item": "背包或玩家物品栏中都没有手持物品的位置",
+	"gui.sophisticatedbackpacks.upgrades.anvil": "铁砧",
+	"gui.sophisticatedbackpacks.upgrades.anvil.tooltip": "铁砧"
+}

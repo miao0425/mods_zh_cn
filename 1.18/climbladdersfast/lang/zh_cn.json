@@ -1,0 +1,9 @@
+{
+	"#climbladdersfast": "更快的爬梯 - Faster Ladder Climbing https://www.mcmod.cn/class/3832.html",
+	"text.autoconfig.climbladdersfast.option.climbUpSpeed": "攀爬速度",
+	"text.autoconfig.climbladdersfast.option.climbDownSpeed": "攀爬速度",
+	"text.autoconfig.climbladdersfast.option.disableScaffoldingFastClimbing": "禁用脚手架快速攀爬",
+	"text.autoconfig.climbladdersfast.option.disableScaffoldingCollision": "禁用脚手架碰撞",
+	"text.autoconfig.climbladdersfast.option.disableVinesFastClimbing": "禁用藤蔓快速攀爬",
+	"text.autoconfig.climbladdersfast.title": "快速爬梯"
+}

@@ -1,0 +1,10 @@
+{
+	"#alchemylib": "[AL]AlchemyLib https://www.mcmod.cn/class/1937.html",
+	"alchemylib.container.close_recipe_select": "关闭合成配方选项",
+	"alchemylib.container.lock_recipe": "锁定合成配方",
+	"alchemylib.container.open_recipe_select": "打开合成配方选项",
+	"alchemylib.container.pause": "暂停",
+	"alchemylib.container.resume": "继续",
+	"alchemylib.container.show_recipes": "显示合成配方",
+	"alchemylib.container.unlock_recipe": "解锁合成配方"
+}

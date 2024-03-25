@@ -1,0 +1,5 @@
+{
+	"#entityculling": "实体渲染机制优化 - Entity Culling https://www.mcmod.cn/class/3058.html",
+	"text.entityculling.title": "实体渲染机制优化",
+	"key.entityculling.toggle": "调试切换切换"
+}

@@ -1,0 +1,5 @@
+{
+	"#terrablender": "TerraBlender https://www.mcmod.cn/class/5489.html",
+	"commands.terrablender.biomeparams.success": "坐标 %s %s %s： %s",
+	"commands.terrablender.biomeparams.failed": "无法确定参数"
+}

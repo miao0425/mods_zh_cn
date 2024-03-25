@@ -1,0 +1,7 @@
+{
+	"#ftbricketyww": "FTBRicketyww",
+	"block.ftbricketyww.rickety_water_wheel": "水车",
+	"create.ftbricketyww.goggles.durability": "耐久：",
+	"ftbricketyww.config.max_durability": "水车耐久已满",
+	"ftbricketyww.config.water_wheel_stress_capacity": "水车应力容量"
+}

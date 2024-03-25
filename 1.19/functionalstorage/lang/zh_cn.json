@@ -1,0 +1,17 @@
+{
+	"#functionalstorage": "功能性存储 Functional Storage - https://www.mcmod.cn/class/5350.html",
+	"block.functionalstorage.controller_extension": "控制器拓展方块",
+	"block.functionalstorage.fluid_1": "储液抽屉 (1x1)",
+	"block.functionalstorage.fluid_2": "储液抽屉 (1x2)",
+	"block.functionalstorage.fluid_4": "储液抽屉 (2x2)",
+	"block.functionalstorage.framed_controller_extension": "镶框控制器拓展方块",
+	"block.functionalstorage.framed_simple_compacting_drawer": "镶框简易压缩抽屉",
+	"block.functionalstorage.framed_storage_controller": "镶框储存控制器",
+	"block.functionalstorage.mangrove_1": "红树木抽屉 (1x1)",
+	"block.functionalstorage.mangrove_2": "红树木抽屉 (1x2)",
+	"block.functionalstorage.mangrove_4": "红树木抽屉 (2x2)",
+	"block.functionalstorage.simple_compacting_drawer": "简易 压缩抽屉",
+	"gui.functionalstorage.fluid": "流体：",
+	"storageupgrade.desc.fluid": "方块流体存储量乘",
+	"storageupgrade.desc.item": "方块物品存储量乘"
+}

@@ -1,0 +1,22 @@
+{
+	"#excavated_variants": "Excavated Variants https://www.mcmod.cn/class/8011.html",
+	"itemGroup.excavated_variants.excavated_variants": "挖掘变种",
+	"block.excavated_variants.end_stone_copper_ore": "末地铜矿石",
+	"block.excavated_variants.netherrack_copper_ore": "下界铜矿石",
+	"block.excavated_variants.end_stone_osmium_ore": "末地锇矿石",
+	"block.excavated_variants.netherrack_osmium_ore": "下界锇矿石",
+	"block.excavated_variants.end_stone_redstone_ore": "末地红石矿石",
+	"block.excavated_variants.netherrack_redstone_ore": "下界红石矿石",
+	"block.excavated_variants.end_stone_fluorite_ore": "末地氟石矿石",
+	"block.excavated_variants.netherrack_fluorite_ore": "下界氟石矿石",
+	"block.excavated_variants.end_stone_iron_ore": "末地铁矿石",
+	"block.excavated_variants.netherrack_iron_ore": "下界铁矿石",
+	"block.excavated_variants.end_stone_uranium_ore": "末地铀矿石",
+	"block.excavated_variants.netherrack_uranium_ore": "下界铀矿石",
+	"block.excavated_variants.end_stone_lapis_ore": "末地青金石矿石",
+	"block.excavated_variants.netherrack_lapis_ore": "下界青金石矿石",
+	"block.excavated_variants.end_stone_coal_ore": "末地煤矿石",
+	"block.excavated_variants.netherrack_coal_ore": "下界煤矿石",
+	"block.excavated_variants.end_stone_emerald_ore": "末地绿宝石矿石",
+	"block.excavated_variants.netherrack_emerald_ore": "下界绿宝石矿石"
+}

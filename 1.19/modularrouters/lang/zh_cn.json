@@ -1,0 +1,8 @@
+{
+    "#modularrouters":"模块化路由器 Modular Routers - https://www.mcmod.cn/class/892.html",
+	"item.modularrouters.creative_module": "创造模块",
+    "item.modularrouters.energy_distributor_module": "能量分配模块",
+    "item.modularrouters.energy_output_module": "能量输出模块",
+    "item.modularrouters.energy_upgrade": "能量升级",
+    "item.modularrouters.filter_round_robin_augment": "筛选循环组件"
+}

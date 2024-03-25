@@ -1,0 +1,23 @@
+{
+	"block.allomancy.deepslate_aluminum_ore": "深层铝矿石",
+	"block.allomancy.deepslate_cadmium_ore": "深层镉矿石",
+	"block.allomancy.deepslate_chromium_ore": "深层铬矿石",
+	"block.allomancy.deepslate_lead_ore": "深层铅矿石",
+	"block.allomancy.deepslate_silver_ore": "深层银矿石",
+	"block.allomancy.deepslate_tin_ore": "深层锡矿石",
+	"block.allomancy.deepslate_zinc_ore": "深层锌矿石",
+	"block.allomancy.raw_aluminum_block": "粗铝块",
+	"block.allomancy.raw_cadmium_block": "粗镉块",
+	"block.allomancy.raw_chromium_block": "粗铬块",
+	"block.allomancy.raw_lead_block": "粗铅块",
+	"block.allomancy.raw_silver_block": "粗银块",
+	"block.allomancy.raw_tin_block": "粗锡块",
+	"block.allomancy.raw_zinc_block": "粗锌块",
+	"item.allomancy.raw_aluminum": "粗铝",
+	"item.allomancy.raw_cadmium": "粗镉",
+	"item.allomancy.raw_chromium": "粗铬",
+	"item.allomancy.raw_lead": "粗铅",
+	"item.allomancy.raw_silver": "粗银",
+	"item.allomancy.raw_tin": "粗锡",
+	"item.allomancy.raw_zinc": "粗锌"
+}

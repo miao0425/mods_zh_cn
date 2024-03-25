@@ -1,0 +1,15 @@
+{
+	"#ragnagoblin": "Ragna Goblin https://www.mcmod.cn/class/9479.html",
+	"entity.ragnagoblin.ragna_goblin": "Ragna哥布林",
+	"item.ragnagoblin.ragna_goblin_spawn_egg": "Ragna哥布林刷怪蛋",
+	"advancements.ragnagoblin.interact_with_goblin.title": "多棒的奥术！",
+	"advancements.ragnagoblin.interact_with_goblin.description": "尝试和Ragna哥布林交易",
+	"advancements.ragnagoblin.hurt_goblin.title": "龙之研究回归",
+	"advancements.ragnagoblin.hurt_goblin.description": "以错误的方式与Ragna哥布林互动",
+	"advancements.ragnagoblin.kill_goblin.title": "龙之研究",
+	"advancements.ragnagoblin.kill_goblin.description": "让一只Ragna哥布林永远安静下来",
+	"advancements.ragnagoblin.spyglass_at_goblin.title": "是哥布林吗？",
+	"advancements.ragnagoblin.spyglass_at_goblin.description": "是的，在上面有一个很吵的人",
+	"advancements.ragnagoblin.spyglass_at_unwell_goblin.title": "这是 Ragnarök 吗？",
+	"advancements.ragnagoblin.spyglass_at_unwell_goblin.description": "不，只是个非常吵的哥布林"
+}

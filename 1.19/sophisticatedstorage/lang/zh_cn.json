@@ -1,0 +1,18 @@
+{
+	"#sophisticatedstorage": "精妙存储 - Sophisticated Storage https://www.mcmod.cn/class/6711.html",
+	"item.sophisticatedstorage.chipped.botanist_workbench_upgrade": "植物学家工作台升级",
+	"item.sophisticatedstorage.chipped.botanist_workbench_upgrade.tooltip": "升级标签页中的植物学家工作台",
+	"item.sophisticatedstorage.chipped.glassblower_workbench_upgrade": "玻璃匠工作台升级",
+	"item.sophisticatedstorage.chipped.glassblower_workbench_upgrade.tooltip": "升级标签页中的玻璃匠工作台",
+	"item.sophisticatedstorage.chipped.carpenter_workbench_upgrade": "木匠工作台升级",
+	"item.sophisticatedstorage.chipped.carpenter_workbench_upgrade.tooltip": "升级标签页中的木匠工作台",
+	"item.sophisticatedstorage.chipped.mason_workbench_upgrade": "石匠工作台升级",
+	"item.sophisticatedstorage.chipped.mason_workbench_upgrade.tooltip": "升级标签页中的石匠工作台",
+	"item.sophisticatedstorage.chipped.shepherd_workbench_upgrade": "牧羊人工作台升级",
+	"item.sophisticatedstorage.chipped.shepherd_workbench_upgrade.tooltip": "升级标签页中的牧羊人工作台",
+	"item.sophisticatedstorage.chipped.philosopher_workbench_upgrade": "学者工作台升级",
+	"item.sophisticatedstorage.chipped.philosopher_workbench_upgrade.tooltip": "升级标签页中的学者工作台",
+	"item.sophisticatedstorage.chipped.tinkerer_workbench_upgrade": "工匠工作台升级",
+	"item.sophisticatedstorage.chipped.tinkerer_workbench_upgrade.tooltip": "升级标签页中的工匠工作台",
+	"gui.sophisticatedstorage.upgrades.buttons.io_mode_side_info": "%s (%s)"
+}

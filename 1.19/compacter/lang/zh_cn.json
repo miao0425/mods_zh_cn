@@ -1,0 +1,14 @@
+{
+	"#compacter": "压缩者Compacter - https://www.mcmod.cn/class/3093.html",
+	"block.compacter.compacter": "压缩器",
+	"block.compacter.cobbler": "圆石制造器",
+	"itemGroup.compacter": "压缩器",
+	"compacter.recurse.enabled": "循环压缩已启用",
+	"compacter.recurse.disabled": "循环压缩已禁用",
+	"compacter.craftmode.two_three": "先尝试 2x2 的配方",
+	"compacter.craftmode.three_two": "先尝试 3x3 的配方",
+	"compacter.craftmode.three_only": "仅 3x3 的配方",
+	"compacter.craftmode.two_only": "仅 2x2 的配方",
+	"compacter.craftmode.one_only": "单物品模式（1x1）",
+	"compacter.craftmode.hollow": "空心模式（3x3 无中心）"
+}

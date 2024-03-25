@@ -1,0 +1,11 @@
+{
+	"#createdieselgenerators": "机械动力：柴油动力 Create: Diesel Generators - https://www.mcmod.cn/class/10727.html",
+	"block.createdieselgenerators.oil_barrel": "油桶",
+	"block.createdieselgenerators.chip_wood_beam": "木屑梁柱",
+	"block.createdieselgenerators.biodiesel": "生物柴油",
+	"block.createdieselgenerators.diesel": "柴油",
+	"block.createdieselgenerators.crude_oil": "原油",
+	"block.createdieselgenerators.gasoline": "汽油",
+	"block.createdieselgenerators.plant_oil": "植物油",
+	"block.createdieselgenerators.ethanol": "乙醇"
+}

@@ -1,0 +1,14 @@
+{
+	"#feruchemy": "藏金术Feruchemy - https://www.mcmod.cn/class/8984.html",
+	"item.feruchemy.metal_mind": "金属意识",
+	"item.feruchemy.the_band_of_ritual_mourning": "The Band of Ritual Mourning",
+	"tooltip.feruchemy.the_band_of_ritual_mourning": "This Band holds an Insane amount of lnvestiture feruchemy:the band ofritualmourning",
+
+	"effect.feruchemy.fire_aspect": "火焰附加",
+	"effect.feruchemy.knock_back": "击退",
+	"effect.feruchemy.bed_use": "遐想",
+	"effect.feruchemy.non_generation": "缺损",
+
+	"key.feruchemy": "藏金术",
+	"key.feruchemy.storing_menu": "藏金术菜单"
+}

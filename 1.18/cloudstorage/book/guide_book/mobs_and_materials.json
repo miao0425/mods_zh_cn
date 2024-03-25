@@ -1,0 +1,27 @@
+{
+	"parent": "root.json",
+	"text": "mobs_and_materials.txt",
+	"title": "生物与材料",
+	"entity_buttons": [],
+	"linked_page_buttons": [
+		{
+			"linked_page": "badloon.json",
+			"text": "恶气球",
+			"x": 290,
+			"y": 20,
+			"page": 0
+		},
+		{
+			"linked_page": "bloviator.json",
+			"text": "吐气云",
+			"x": 290,
+			"y": 70,
+			"page": 0
+		}
+	],
+	"images": [],
+	"item_renders": [],
+	"recipes": [],
+	"tabula_renders": [],
+	"entity_renders": []
+}

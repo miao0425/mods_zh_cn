@@ -1,0 +1,5 @@
+{
+	"#ae2wtlib": "[AE2WT]AE2无线终端Applied Energistics 2 Wireless Terminals - https://www.mcmod.cn/class/3712.html",
+	"item.ae2wtlib.quantum_bridge_card": "量子桥卡",
+	"item.ae2wtlib.quantum_bridge_card.desc": "让无线终端可以通过 量子缠绕态奇点 实现忽略任何限制访问网络，相当于内置了一个量子连接仓"
+}

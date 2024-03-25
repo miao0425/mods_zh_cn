@@ -1,0 +1,51 @@
+{
+	"#thitemstages": "物品阶段 Item Stages - https://www.mcmod.cn/class/3171.html",
+	"thitemstages.items.dropped": "您的物品栏中掉落了不可用的物品！",
+	"thitemstages.item.interact.error": "您不能使用此物品！",
+	"thitemstages.block.interact.warn": "你将无法使用此方块！",
+	"thitemstages.block.interact.error": "你不能使用这个方块！",
+	"thitemstages.item.pickup.error": "您不能拾取此物品！",
+	"thitemstages.block.destroy": "你不能毁坏这个方块！",
+
+	"thitemstages.commands.reloadstages": "成功重新加载以下阶段：%s",
+
+	"thitemstages.commands.liststages": "阶段分别为：%s",
+
+	"thitemstages.commands.addstage.failure.sender": "%s 已经拥有 %s 阶段！",
+	"thitemstages.commands.addstage.failure.target": "你已经拥有了你应该得到的阶段！",
+
+	"thitemstages.commands.removestage.failure.sender": "%s 不具备 %s 阶段！",
+	"thitemstages.commands.removestage.failure.target": "你没有了本该从你身上消失的阶段！",
+
+	"thitemstages.commands.addstage.success.sender": "%s 已获得 %s stage!",
+	"thitemstages.commands.addstage.success.target": "您获得了 %s 阶段！",
+
+	"thitemstages.commands.removestage.success.sender": "从 %s 中删除了 %s 阶段！",
+	"thitemstages.commands.removestage.success.target": "你不再拥有 %s 阶段了！",
+
+	"thitemstages.commands.addstages.success.sender": "%s 已获得 %s stages!",
+	"thitemstages.commands.addstages.success.target": "您获得了 %s 阶段！",
+
+	"thitemstages.commands.removestages.success.sender": "从 %s 中删除了 %s 阶段！",
+	"thitemstages.commands.removestages.success.target": "你不再拥有 %s 阶段了！",
+
+	"thitemstages.commands.check.failure.empty": "%s 没有任何阶段！",
+	"thitemstages.commands.check.success.list": "%s 有以下阶段：%s！",
+
+	"thitemstages.commands.all.target": "您已获得所有可用阶段的信息！",
+	"thitemstages.commands.all.sender": "%s 已获得所有可用阶段！",
+
+	"thitemstages.commands.clear.target": "您的所有阶段都已删除！",
+	"thitemstages.commands.clear.sender": "从 %s 的阶段数据中移除 %s 阶段！",
+
+	"thitemstages.tooltip.stage.message": "此物品阶段为： ",
+	"thitemstages.tooltip.stage.left_bracket": "[",
+	"thitemstages.tooltip.stage.right_bracket": "]",
+	"thitemstages.tooltip.stage.stage": "%s",
+	"thitemstages.tooltip.pickup": "您将无法拾取此物品！",
+	"thitemstages.tooltip.playerinventory": "此物品将从您的物品栏中掉落！",
+	"thitemstages.tooltip.playerequipment": "此物品将从您的装备槽中掉落！",
+	"thitemstages.tooltip.usableitems": "您将无法使用此物品！",
+	"thitemstages.tooltip.usableblocks": "您将无法放置或使用此方块！",
+	"thitemstages.tooltip.hideinjei": "此物品将在 JEI 中隐藏！"
+}

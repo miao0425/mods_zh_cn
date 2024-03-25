@@ -1,0 +1,6 @@
+{
+	"#itemcollectors": "Item Collectors https://www.mcmod.cn/class/4701.html",
+	"itemcollectors.basic_collector.info.range": "范围：%s 方块",
+	"itemcollectors.block.basic_collector": "基础物品收集器",
+	"itemcollectors.block.advanced_collector": "高级物品收集器"
+}

@@ -1,0 +1,50 @@
+{
+	"parent": "",
+	"text": "root.txt",
+	"title": "云存储",
+	"entity_buttons": [],
+	"linked_page_buttons": [
+		{
+			"linked_page": "mobs_and_materials.json",
+			"text": "生物与材料",
+			"x": 290,
+			"y": 94,
+			"page": 0
+		},
+		{
+			"linked_page": "storage_clouds.json",
+			"text": "云中的存储",
+			"x": 290,
+			"y": 116,
+			"page": 0
+		},
+		{
+			"linked_page": "balloon_salesman.json",
+			"text": "商人之死",
+			"x": 290,
+			"y": 138,
+			"page": 0
+		},
+		{
+			"linked_page": "balloon_buddy.json",
+			"text": "你所需要的只是朋友",
+			"x": 290,
+			"y": 160,
+			"page": 0
+		}
+	],
+	"images": [],
+	"item_renders": [
+		{
+			"item": "cloudstorage:balloon",
+			"item_tag": "{3DRender:2}",
+			"x": 25,
+			"y": 14,
+			"page": 0,
+			"scale": 2.75
+		}
+	],
+	"recipes": [],
+	"tabula_renders": [],
+	"entity_renders": []
+}

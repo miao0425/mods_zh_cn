@@ -1,0 +1,20 @@
+{
+	"#tklib": "[TKLib]Technicalities: Lib https://www.mcmod.cn/class/6454.html",
+	"tooltip.tklib.color.white": "白色",
+	"tooltip.tklib.color.orange": "橙色",
+	"tooltip.tklib.color.magenta": "品红色",
+	"tooltip.tklib.color.light_blue": "淡蓝色",
+	"tooltip.tklib.color.yellow": "黄色",
+	"tooltip.tklib.color.lime": "黄绿色",
+	"tooltip.tklib.color.pink": "粉红色",
+	"tooltip.tklib.color.gray": "灰色",
+	"tooltip.tklib.color.light_gray": "淡灰色",
+	"tooltip.tklib.color.cyan": "青色",
+	"tooltip.tklib.color.purple": "紫色",
+	"tooltip.tklib.color.blue": "蓝色",
+	"tooltip.tklib.color.brown": "棕色",
+	"tooltip.tklib.color.green": "绿色",
+	"tooltip.tklib.color.red": "红色",
+	"tooltip.tklib.color.black": "黑色",
+	"subtitles.tklib.wrench": "扳手噪音"
+}
