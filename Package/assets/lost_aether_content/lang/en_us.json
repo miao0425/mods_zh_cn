@@ -1,0 +1,9 @@
+{
+    "item.lost_aether_content.music_disc_legacy": "Duck Music Disc",
+    "item.lost_aether_content.music_disc_sovereign_of_the_skies": "Royal Music Disc",
+    "gui.lost_aether_content.aerwhale_king.title": ", the Aerwhale King",
+    "sounds.musicmanager.lost_aether_content.music.platinum_boss": "Jesterguy - Sovereign of the Skies",
+    "lore.item.lost_aether_content.music_disc_legacy": "A baby blue colored record disc. When inserted into a jukebox, it plays Legacy by Lachney.",
+    "lore.item.lost_aether_content.music_disc_sovereign_of_the_skies": "A pastel blue colored record disc. When inserted into a jukebox, it plays Sovereign of the Skies by Jesterguy. It has a scent similar to that of rain.",
+    "trim_pattern.lost_aether_content.noble": "Noble Armor Trim"
+}

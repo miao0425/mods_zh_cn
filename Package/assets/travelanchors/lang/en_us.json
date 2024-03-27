@@ -1,0 +1,8 @@
+{
+    "enchantment.travelanchors.range.desc": "Increases the teleportation range with each tier",
+    "enchantment.travelanchors.teleportation.desc": "Applies the Teleportation ability to other tools than Travel Staff",
+    "travelanchors.lock.button": "Lock",
+    "travelanchors.lock.locked": "This anchor is now locked.",
+    "travelanchors.lock.unlocked": "This anchor is no longer locked.",
+    "travelanchors.lock.interact": "This anchor is locked. Right-click with a stick to unlock."
+}
