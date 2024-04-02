@@ -1,0 +1,5 @@
+{
+    "_comment": "Config",
+    "config.itemzoom.show.cooldown": "Display Cooldown",
+    "config.itemzoom.show.cooldown.comment": "Display the item's cooldown animation when zoomed."
+}

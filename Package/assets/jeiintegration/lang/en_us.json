@@ -1,0 +1,7 @@
+{
+    "config.jeiintegration.tooltips.enchantabilityTooltipMode": "Enchantability Tooltip",
+    "tooltip.jeiintegration.burnTime.suffix": "ticks",
+    "tooltip.jeiintegration.enchantability": "Enchantability:",
+    "tooltip.jeiintegration.nbtTagData": "NBT:",
+    "tooltip.jeiintegration.registryName": "ID:"
+}

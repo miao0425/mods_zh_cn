@@ -1,0 +1,16 @@
+{
+    "options.particles.minecraft.dust_plume": "Dust Plume",
+    "options.particles.minecraft.dust_plume.tooltip": "Shown when adding items to decorated pots.",
+    "options.particles.minecraft.gust": "Gust",
+    "options.particles.minecraft.gust.tooltip": "Created when a wind charge hits a block.",
+    "options.particles.minecraft.gust_dust": "Gust Dust",
+    "options.particles.minecraft.gust_dust.tooltip": "Gust Dust",
+    "options.particles.minecraft.gust_emitter": "Gust Emitter",
+    "options.particles.minecraft.gust_emitter.tooltip": "Gust Emitter",
+    "options.particles.minecraft.trial_spawner_detection": "Trial Spawner Detection",
+    "options.particles.minecraft.trial_spawner_detection.tooltip": "Trial Spawner Detection",
+    "options.particles.minecraft.white_smoke": "White Smoke",
+    "options.particles.minecraft.white_smoke.tooltip": "White Smoke",
+    "sodium-extra.overlay.coordinates": "X: %s, Y: %s, Z: %s",
+    "sodium-extra.overlay.fps": "%s FPS"
+}

@@ -1,0 +1,6 @@
+{
+    "lootr.message.invalid_block": "The container that you have tried to open is invalid as it has not generated its identifier.",
+    "lootr.commands.blockpos": "%s,%s,%s",
+    "lootr.advancements.1337loot.title": "/\\/\\4$73R 10073R",
+    "itemGroup.lootr": "Lootr"
+}
