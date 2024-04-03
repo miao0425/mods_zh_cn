@@ -1,0 +1,32 @@
+{
+	"ping-wheel.key.ping-location": "标记位置",
+	"ping-wheel.key.open-settings": "打开设置",
+	"ping-wheel.key.name-labels": "显示名称标签",
+	"ping-wheel.subtitles.ping": "位置标记提示",
+
+	"ping-wheel.settings.pingVolume": "标记音量：%s",
+	"ping-wheel.settings.pingDuration": "标记持续时间：%s",
+	"ping-wheel.settings.pingDistance": "标记距离：%s",
+	"ping-wheel.settings.pingDistance.hidden": "隐藏",
+	"ping-wheel.settings.pingDistance.unlimited": "无限制",
+	"ping-wheel.settings.correctionPeriod": "校正周期：%s",
+	"ping-wheel.settings.itemIconVisible": "物品图标",
+	"ping-wheel.settings.directionIndicatorVisible": "方向指示",
+	"ping-wheel.settings.nameLabelForced": "始终显示名称",
+	"ping-wheel.settings.pingSize": "标记大小：%s",
+	"ping-wheel.settings.channel": "标记频道",
+	"ping-wheel.settings.channel.tooltip": "你只能向同一频道的玩家发送和接收标记信号",
+
+	"ping-wheel.settings.title": "标记位置设置",
+	"ping-wheel.name": "标记位置",
+
+	"ping-wheel.command.config.description": "查看标记位置设置",
+	"ping-wheel.command.channel.get.description": "获取当前频道",
+	"ping-wheel.command.channel.set.description": "设置当前频道，使用\"\"表示全局频道",
+	"ping-wheel.command.channel.get.response": "§f当前的标记位置通道：%s",
+	"ping-wheel.command.channel.set.response": "§f将标记位置设置为：%s",
+	"ping-wheel.command.channel.set.reject": "频道名称长度限制为 %s 字符",
+	"ping-wheel.command.channel.name.default": "§e全局 §7(默认)",
+	"ping-wheel.command.channel.name": "\"§6%s§f\"",
+	"ping-wheel.command.help.format": "§f%s\n§7(%s)"
+}
